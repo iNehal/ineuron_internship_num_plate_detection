@@ -27,7 +27,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/iNehal/ineuron_internship_num_plate_detection.git
 ```
 
 2. Install dependencies:
